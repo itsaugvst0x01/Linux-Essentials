@@ -21,3 +21,18 @@ ls -l
 └──────────────── tipo: "-" archivo, "d" carpeta, "l" enlace simbólico
 
 ```
+
+`r`, `w`, `x` significan algo distinto en carpetas:
+
+| Comando | Qué hace |
+|---|---|
+| `pwd` | dónde estoy |
+| `ls` | qué hay aquí |
+| `cd` | moverme |
+| `mkdir` | crear carpeta |
+| `touch` | crear archivo vacío |
+| `cat` | ver contenido de archivo |
+| `cp` | copiar |
+| `mv` | mover / renombrar |
+| `rm` ⚠️ | eliminar (sin papelera) |
+| `man` | manual de cada comando |
